@@ -3,7 +3,7 @@
     "description": "Yii2 xml request parser",
     "keywords": ["yii2", "xml", "parser", "request"],
     "homepage": "https://github.com/bobchengbin/Yii2XmlRequestParser",
-    "type": "library",
+    "type": "yii2-extension",
     "license": "MIT",
     "authors": [
     {
